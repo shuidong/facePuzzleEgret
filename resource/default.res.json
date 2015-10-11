@@ -1,0 +1,220 @@
+{
+	"resources": [
+		{
+			"name": "bgImage",
+			"type": "image",
+			"url": "assets/bg.jpg"
+		},
+		{
+			"name": "egretIcon",
+			"type": "image",
+			"url": "assets/egret_icon.png"
+		},
+		{
+			"name": "qa",
+			"type": "json",
+			"url": "config/qa.json"
+		},
+
+		{
+			"name": "title",
+			"type": "image",
+			"url": "assets/title.png"
+		},
+
+		{
+			"name": "star",
+			"type": "image",
+			"url": "assets/star.png"
+		},
+
+		{
+			"name": "inQQ",
+			"type": "image",
+			"url": "assets/inQQ.png"
+		},
+
+		{
+			"name": "inWX",
+			"type": "image",
+			"url": "assets/inWX.png"
+		},
+
+		{
+			"name": "probarbg",
+			"type": "image",
+			"url": "assets/probarbg.png"
+		},
+
+		{
+			"name": "probartop",
+			"type": "image",
+			"url": "assets/probartop.png"
+		}
+
+		,
+{
+			"name": "0",
+			"type": "image",
+			"url": "assets/0.png"
+		},
+
+		{
+			"name": "1",
+			"type": "image",
+			"url": "assets/1.png"
+		},
+
+		{
+			"name": "2",
+			"type": "image",
+			"url": "assets/2.png"
+		},
+
+		{
+			"name": "3",
+			"type": "image",
+			"url": "assets/3.png"
+		},
+
+		{
+			"name": "4",
+			"type": "image",
+			"url": "assets/4.png"
+		},
+
+		{
+			"name": "5",
+			"type": "image",
+			"url": "assets/5.png"
+		},
+
+		{
+			"name": "6",
+			"type": "image",
+			"url": "assets/6.png"
+		},
+
+		{
+			"name": "7",
+			"type": "image",
+			"url": "assets/7.png"
+		},
+
+		{
+			"name": "8",
+			"type": "image",
+			"url": "assets/8.png"
+		},
+
+		{
+			"name": "9",
+			"type": "image",
+			"url": "assets/9.png"
+		},
+
+		{
+			"name": "10",
+			"type": "image",
+			"url": "assets/10.png"
+		},
+
+		{
+			"name": "11",
+			"type": "image",
+			"url": "assets/11.png"
+		},
+
+		{
+			"name": "12",
+			"type": "image",
+			"url": "assets/12.png"
+		},
+
+		{
+			"name": "13",
+			"type": "image",
+			"url": "assets/13.png"
+		},
+
+		{
+			"name": "14",
+			"type": "image",
+			"url": "assets/14.png"
+		},
+
+		{
+			"name": "15",
+			"type": "image",
+			"url": "assets/15.png"
+		},
+
+		{
+			"name": "16",
+			"type": "image",
+			"url": "assets/16.png"
+		},
+
+		{
+			"name": "17",
+			"type": "image",
+			"url": "assets/17.png"
+		},
+
+		{
+			"name": "18",
+			"type": "image",
+			"url": "assets/18.png"
+		},
+
+		{
+			"name": "19",
+			"type": "image",
+			"url": "assets/19.png"
+		},
+
+		{
+			"name": "20",
+			"type": "image",
+			"url": "assets/20.png"
+		},
+		
+
+		{ "name": "21", "type": "image", "url": "assets/21.png" },
+		{ "name": "22", "type": "image", "url": "assets/22.png" },
+		{ "name": "23", "type": "image", "url": "assets/23.png" },
+		{ "name": "24", "type": "image", "url": "assets/24.png" },
+		{ "name": "25", "type": "image", "url": "assets/25.png" },
+		{ "name": "26", "type": "image", "url": "assets/26.png" },
+		{ "name": "27", "type": "image", "url": "assets/27.png" },
+		{ "name": "28", "type": "image", "url": "assets/28.png" },
+		{ "name": "29", "type": "image", "url": "assets/29.png" },
+		{ "name": "30", "type": "image", "url": "assets/30.png" },
+		{ "name": "31", "type": "image", "url": "assets/31.png" },
+		{ "name": "32", "type": "image", "url": "assets/32.png" },
+		{ "name": "33", "type": "image", "url": "assets/33.png" },
+
+		{
+			"name": "great",
+			"type": "image",
+			"url": "assets/great.png"
+		}
+
+	],
+	"groups": [
+		{
+			"name": "first",
+			"keys":"probartop,probarbg"
+		},
+
+		{
+			"name": "preload",
+			"keys": "title,star,inWX,inQQ"
+		},
+
+		{
+			"name": "gameload",
+			"keys": "great,egretIcon,qa,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33"
+		}
+	]
+}
